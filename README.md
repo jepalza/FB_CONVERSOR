@@ -7,7 +7,7 @@ Es en tiempo real, mientras escribes o pegas un dato en cualquiera casilla, se r
   
 Tiene diversas salidas de datos: DEC-HEX-BIN-ASC y luego, como HEX permite copiar/pegar en nuestras aplicaciones la salida en formato 4 bytes sueltos tanto del primero al último, como al revés, útil para editores hexadecimales.  
   
-Ademas, tenemos una calculadora bastante completa, que permite sumas, restas, multiplicaciones, divisiones y operaciones aritméticas del tipo AND, OR, XOR o BITWISE (desplazamientos).  
+Ademas, tenemos una calculadora bastante completa, que permite sumas, restas, multiplicaciones, divisiones y operaciones aritméticas del tipo AND, OR, XOR o SHL/SHR (desplazamientos) que yo he llamado RD/RI para abreviar Rotación Derecha o Rotación Izquierda.  
   
 La salida ASCII es la única que no permite mas alla de 3 caracteres, por razones obvias, solo permite 4 bytes de ancho. 
   
