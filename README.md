@@ -28,3 +28,4 @@ h1000+2000 (hex+dec)
 b1100+1234 (bin+dec)  
 hffff and hff (hex and hex)  
 
+![conversor CV](https://github.com/jepalza/FB_CONVERSOR/blob/main/img/cv_img.png)
